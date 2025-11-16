@@ -7,6 +7,7 @@ int main()
 
     printf ("Your age is:%d\n", age);
     printf ("hello world");
-    printf  ("sample changes for DEV branch");
+    printf ("sample changes for DEV branch");
+    printf ("sample for merge statement");
     return 0;
 }
