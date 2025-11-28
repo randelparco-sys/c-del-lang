@@ -9,5 +9,6 @@ int main()
     printf ("hello world");
     printf ("sample changes for DEV branch");
     printf ("sample for merge statement");
+    printf ("sample for bisaya statement");
     return 0;
 }
